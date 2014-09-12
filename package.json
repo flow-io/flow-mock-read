@@ -1,6 +1,6 @@
 {
   "name": "flow-mock-read",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Provides a mock sink for readable streams.",
   "author": {
     "name": "Athan Reines",
