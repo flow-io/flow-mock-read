@@ -16,7 +16,7 @@ For use in the browser, use [browserify](https://github.com/substack/node-browse
 
 ## Usage
 
-To create a mock stream sink,
+To create a mock sink (writeable) stream,
 
 ``` javascript
 var mock = require( 'flow-mock-read' );
