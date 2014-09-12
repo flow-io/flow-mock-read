@@ -25,7 +25,12 @@
   "keywords": [
     "stream",
     "flow",
-    "flow.io"
+    "flow.io",
+    "testing",
+    "mock",
+    "writeable",
+    "sink",
+    "classic streams"
   ],
   "bugs": {
     "url": "https://github.com/flow-io/flow-mock-read/issues"
